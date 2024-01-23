@@ -7,7 +7,7 @@ h1 {
     padding-right: 15px;
 }
 /* Write your selector for .right below */
-.right {
+.right  {
     float: right;
     padding-left: 15px;
 }
